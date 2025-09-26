@@ -1,6 +1,15 @@
 # Demo Troubleshooting Pipelines in Github Actions
 
 
+## MCPs úteis
+
+- Github (Actions)
+- Azure DevOps
+- Jenkins
+
+
+Obs: Pré-requisitos, PAT e Docker funcional.
+
 ## Prompts
 
 Prompt
